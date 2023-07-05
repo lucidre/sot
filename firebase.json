@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "public",
+    "site": "fashion-masterclass",
     "ignore": [
       "firebase.json",
       "**/.*",
