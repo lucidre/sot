@@ -1,0 +1,67 @@
+name: sot
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.5 <3.0.0"
+
+dependencies:
+  async: ^2.8.2
+  auto_route: ^5.0.1
+
+  cached_network_image: ^3.2.3
+  cloud_firestore: ^4.4.3
+  connectivity_plus: ^3.0.3
+
+  cupertino_icons: ^1.0.2
+
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.1.0
+  flutter_localizations:
+    sdk: flutter
+
+  flutter_staggered_grid_view: ^0.6.2
+  flutter_svg: ^2.0.2
+  gap: ^2.0.0
+  get: ^4.6.5
+  google_fonts: ^4.0.3
+  intl: ^0.17.0
+  lottie: ^2.2.0
+  shimmer: ^2.0.0
+  url_launcher: ^6.1.9
+
+dev_dependencies:
+  auto_route_generator: ^5.0.1
+  build_runner: ^2.2.0
+  flutter_launcher_icons: ^0.12.0
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+
+
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo/sot.png"
+  min_sdk_android: 21
+  background_color_ios: "#FFFFFF"
+  adaptive_icon_background: "#FFFFFF"
+  web:
+    generate: true
+    image_path: "assets/logo/main_logo.png"
+    background_color: "#FFFFFF"
+    theme_color: "#FFFFFF"
+
+flutter:
+  uses-material-design: true
+ 
+  assets:
+    - assets/logo/
+    - assets/images/
+    - assets/dump/
+    - assets/lottie/
+    - assets/svg/

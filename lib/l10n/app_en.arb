@@ -1,0 +1,270 @@
+ {
+    "@@locale": "en",
+    "systemDefault": "System Default",
+    "english":"English",
+    "arabic":"Arabic",
+    "estonian":"Estonian",
+
+"errorOccurred":"Error Occurred",
+"noData":"No Data",
+"anErrorOccurredWithTheDataFetchDontWorryItIsMostLikelyNotYourFault":"An error occurred with the data fetch, don't worry it is most likely not your fault.",
+"thisSectionCurrentlyContainsNoDataPleaseTryAgainLater":"This section currently contains no data; please try again later.",
+
+"pleaseSelectAnImage":"Please select an image.",
+"anErrorOccurredWhilePickingYourImage":"An error occurred while picking your image.",
+
+"noNetworkConnection":"No network connection",
+
+"widgetHasToInclueChildOrTitle":"Widget has to inclue child or title",
+"widgetCanNotIncludeBothChildAndTitle":"Widget can not include both child and title",
+
+"anErrorOccurredWithTheDataFetchPleaseTryAgainLater":"An error occurred with the data fetch, please try again later",
+
+
+"all":"All",
+"greaterThan10":"Greater than 10",
+"greaterThan30":"Greater than 30",
+"greaterThan50":"Greater than 50",
+"male":"Male",
+"female":"Female",
+"upTo20":"Up to 20%",
+"a20_30":"20% - 30%",
+"a30_40":"30% - 40%",
+"a40_50":"40% - 50%",
+"a50AndAbove":"50% and above",
+
+"footWears":"Foot Wears",
+"cooperateWears":"Cooperate Wears",
+"casualWears":"Casual Wears",
+"face":"Face",
+"others":"Others",
+
+
+"popularity":"Popularity",
+"newIn":"New In",
+"lowestPrice":"Lowest Price",
+"highestPrice":"Highest Price",
+
+
+ 
+"pleaseEnterThePinYouRecieved":"Please enter the pin you recieved",
+"pleaseEnterTheCompletePin":"Please enter the complete pin",
+"otpVerification":"Otp Verification",
+"enterTheOtpThatWasSentToYourAccount":"Enter the OTP that was sent to your account.",
+"verify":"Verify",
+"resendUserOtp":"Resend User Otp",
+"pleaseWaitWhileWeResendYourVerificationOtp":"Please wait while we resend your verification OTP",
+"aVerificationOtpHasBeenSentToYourMail":"A verification OTP has been sent to your mail",
+
+
+"password":"Password",
+"pleaseProvideYourPassword":"Please provide your password'",
+"passwordMustBeMoreThan6Letters":"Password must be more than 6 letters",
+"passwordsMustBeTheSame":"Passwords must be the same",
+"retypePassword":"Retype Password",
+"passwordChange":"Password Change",
+"enterANewPasswordForYourAccount":"'Enter a new password for your account",
+"changePassword":"Change Password",
+"yourPasswordHasSuccessfullyBeenChanged":"Your password has successfully been changed",
+ 
+"yourPasswordHasBeenSuccessfullyChangedPleaseLoginAgain":"Your password has been successfully changed, please login again",
+
+
+"email":"Email",
+"pleaseProvideYourEmail":"Please provide your email.",
+"pleaseEnterAValidEmail":"Please enter a valid email",
+"emailVerification":"Email Verification",
+"kindlyEnterYourEmailAndWellSendAnOtpToRecoverYourPassword":"Kindly enter your email and we’ll send an OTP to recover your password",
+"sendOtp":"Send OTP",
+"aVerificationOtpHasBeenSentToYourMail":"A verification OTP has been sent to your mail",
+
+"pleaseEnterThePinYouRecieved":"Please enter the pin you recieved",
+"pleaseEnterTheCompletePin":"Please enter the complete pin",
+"otpVerification":"Otp Verification",
+"enterTheOtpThatWasSentToYourAccount":"Enter the OTP that was sent to your account",
+"verify":"Verify",
+
+"resetPassword":"Reset Password",
+
+"forgotPassword":"Forgot Password",
+
+"accountVerification":"Account Verification",
+"kindlyVerfiyYourAccountToGainAccessToTheApplication":"Kindly verfiy your account to gain access to the application",
+"login":"Login",
+"loginToYourAccount":"Login to your account",
+"forgotPasswordWithQuestionMark":"Forgot Password?",
+"signIn":"Sign In",
+"createAnAccount":"Create an Account",
+"terms":"Terms",
+"and":"and",
+"conditions":"Conditions",
+"ofUse":"of use",
+
+"kindlySelectYourCountry":"Kindly select your country",
+"kindlyAcceptTheApplicationTermsAndConditionsToProceed":"Kindly accept the application terms and conditions to proceed",
+"registrationSuccessfulKindlyCheckYourMailToActivateYourAccount":"Registration successful, kindly check your mail to activate your account",
+"createYourAccount":"Create your account",
+"signUp":"Sign Up",
+"logIn":"Log In",
+"iAgreeToThe":"I agree to the",
+"searchCountry":"Search Country.",
+"theInputtedEmailIsUnavailiable":"The inputted email is unavailiable",
+"fullName":"Full Name",
+"pleaseProvideYourFullName":"Please provide your full name.",
+
+"pleaseEnterThePinYouRecieved":"Please enter the pin you recieved",
+"pleaseEnterTheCompletePin":"Please enter the complete pin",
+"verifyAccount":"'Verify Account",
+"accountVerification":"Account Verification",
+"yourAccountIsNotVerified":"Your account is not verified;",
+"kindlyEnterTheOtpThatWasSentToYourAccount":"Kindly enter the OTP that was sent to your account.",
+"resendOtp":"Resend OTP",
+"yourEmailHasSuccessfullyBeenVerified":"Your email has successfully been verified",
+"aNewOtpHasBeenSentToYourMail":"A new OTP has been sent to your mail",
+
+
+"filter":"Filter",
+"clearFilter":"Clear Filter",
+"apply":"Apply",
+"priceRange":"Price Range",
+"qunatityAvailiable":"Qunatity Availiable",
+"gender":"Gender",
+"discount":"Discount",
+"category":"Category",
+
+"sortBy":"Sort By",
+ 
+"categories":"Categories",
+
+"latestNews":"Latest News",
+"luckyPicks":"Lucky Picks!!",
+
+"newProducts":"New Products",
+
+"anErrorOccurredWithTheDownloadPleaseTryAgainLater":"An error occurred with the download, please try again later",
+"downloadStarted":"Download Started",
+"imageDownloadedTo":"Image downloaded to",
+
+"viewImages":"View Images",
+
+"settingUpChatroomPleaseWait":"Setting up chatroom, please wait", 
+
+"newsFeed":"News Feed",
+
+"search":"Search",
+
+"yourAccountDetailsHasRecentlyBeenUpdatePleaseLoginAgain":"Your account details has recently been update, please login again.",
+"anErrorOccrredSettingUpYourProfilePleaseLoginAgain":"An error occrred setting up your profile, please login again",
+"anErrorOccrredSettingUpYourProfilePleaseTryAgain":"An error occrred setting up your profile, please try again",
+"noNetworkConnection":"No network connection",
+"anErrorOccurredPleaseTryAgain":"An error occurred, please try again'",
+"pleaseConnectToANetworkAndTryAgain":"Please connect to a network and try again",
+
+"country":"Country",
+"displayCurrency":"Display Currency",
+"pleaseSelectYourCountry":"Please select your country",
+"pleaseSelectYourPreferredCurrency":"Please select your preferred currency",
+"aContinue":"Continue",
+"searchCountry":"Search Country.",
+"displayCurrency":"Display Currency",
+"kindlyNoteThatYourSelectedCurrencyWouldBeUsedToControlTheDisplayPricesOfTheProductsButThisWouldOnlyAffectThePaymentPriceOfProductsAsAllPaymentWouldBeMadeInTheDollarEquivalent":"Kindly note that your selected currency would be used to control the display prices of the products but this would only affect the payment price of products as all payment would be made in the dollar equivalent.",
+"okay":"Okay",
+"preferredBaseCurrency":"Preferred base currency",
+"selectYourPreferredCurrency":"Select your preferred currency",
+
+"selectYourCountry":"Select your country",
+
+"editAddress":"Edit Address",
+"save":"Save",
+"deleteAddress":"Delete Address",
+"doYouWantToRemoveThisAddressFromYourList":"Do you want to remove this address from your list?",
+"cancel":"Cancel",
+"delete":"Delete",
+"postcode":"Postcode",
+"pleaseProvideYourPostalCode":"Please provide your postal code.",
+"pleaseEnterAValidPostalCode":"Please enter a valid postal code.",
+"state":"State",
+"pleaseProvideYourState":"Please provide your state.",
+"deliveryAddress":"Delivery Address",
+"pleaseProvideYourDeliveryAddress":"Please provide your delivery address.",
+"searchCountry":"Search Country.",
+"country":"Country",
+
+"addressBook":"Address Book",
+"addNewAddress":"Add new address",
+"noSavedAddresses":"No Saved Addresses",
+"youDoNotHaveAnySavedAddressesTrySavingOneToMakeOrderProcessesFaster":"You do not have any saved addresses, try saving one to make order processes faster",
+"deliveryAddress":"Delivery Address",
+"country":"Country",
+"state":"State",
+"postalCode":"Postal Code",
+
+"contactDetail":"Contact Detail",
+"addContact":"Add Contact",
+"save":"Save",
+"phoneNumber":"Phone Number",
+"phoneNumberPrimary":"Phone Number (Primary)",
+"pleaseEnterYourPrimaryContactNumber":"Please enter your primary contact number",
+"fullName":"Full Name",
+"pleaseProvideYourFullName":"Please provide your full name",
+"selectPhoneCode":"Select Phone Code.",
+
+"yourSelectedCountryWouldBeUsedAsAnAdditionalFactorToTailorTheProductsWeDisplay":"Your selected country would be used as an additional factor to tailor the products we display.",
+"update":"Update",
+
+
+ 
+"currency":"Currency.",
+"yourSelectedCurrencyWouldBeUsedToControlTheDisplayCurrencyOfTheProducts":"Your selected currency would be used to control the display currency of the products.",
+"kindlyNoteThatThisWouldOnlyAffectTheDisplayPriceAndAllPaymentsWouldBeMadeInTheDollarEquivalentOfThePrice":"Kindly note that this would only affect the display price and all payments would be made in the dollar equivalent of the price.",
+
+ 
+"language":"Language",
+"yourSelectedLauguageWouldBeUsedToControlTheDisplayLanguageOfTheApplication":"Your selected lauguage would be used to control the display language of the application.",
+
+"contactUs":"Contact Us",
+"kindlyUseAnyOfTheMediumBelowToContactUs":"Kindly use any of the medium below to contact us",
+"twitter":"Twitter",
+"instagram":"Instagram",
+"facebook":"Facebook",
+"gmail":"Gmail",
+
+"yourAccount":"Your Account",
+"contactDetails":"Contact Details",
+"addressBook":"Address Book",
+"yourOrders":"Your Orders",
+"ratingsAndReviews":"Ratings and Reviews",
+"changePassword":"Change Password",
+"logout":"Logout",
+"doYouWantToLogOutOfThisDeviceThisWouldClearAllYourPersonalDataStoredOnTheApplication":"Do you want to log out of this device, this would clear all your personal data stored on the application",
+"confirm":"Confirm",
+"cancel":"Cancel",
+"changePassword":"Change Password",
+"doYouWantToChangeYourAccountPasswordKindlyNoteThatChangingYourAccountPasswordWouldLogYouOutOfEveryOtherSignedInDevice":"Do you want to change your account password; kindly note that changing your account password would log you out of every other signed in device",
+"changePassword":"Change Password",
+"cancel":"Cancel",
+"accountSetup":"Account Setup",
+"signIn":"Sign In",
+"signUp":"Sign Up",
+"legalPolicies":"Legal Policies",
+"termsAndConditions":"Terms and Conditions",
+"privacyPolicies":"Privacy Policies",
+"helpContact":"Help & Contact",
+"applicationSettings":"Application Settings",
+"language":"Language",
+"currency":"Currency",
+"country":"Country",
+"about":"About",
+"openSourceLicense":"Open-source License",
+
+"searchForClothingsShoesAccessoriesAndMore":"Search for Clothings, Shoes, Accessories and more",
+ 
+"home":"Home",
+"gallery" : "Gallery",
+"account" : "Account",
+"categories" : "Categories",
+
+"close" : "Close",
+
+"a":"a"
+}
