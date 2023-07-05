@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
     appId: '1:488608797662:web:fe11fb9ee7ff87d36ec34f',
     messagingSenderId: '488608797662',
     projectId: 'wurafadaka-a677c',
-    authDomain: 'wurafadaka-a677c.firebaseapp.com',
+    authDomain: 'fashion-masterclass.firebaseapp.com',
     databaseURL: 'https://wurafadaka-a677c.firebaseio.com',
     storageBucket: 'wurafadaka-a677c.appspot.com',
     measurementId: 'G-TRMW04KEJ7',
