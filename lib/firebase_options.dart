@@ -21,11 +21,20 @@ class DefaultFirebaseOptions {
     }
     switch (defaultTargetPlatform) {
       case TargetPlatform.android:
-        return android;
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for android - '
+          'you can reconfigure this by running the FlutterFire CLI again.',
+        );
       case TargetPlatform.iOS:
-        return ios;
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for ios - '
+          'you can reconfigure this by running the FlutterFire CLI again.',
+        );
       case TargetPlatform.macOS:
-        return macos;
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for macos - '
+          'you can reconfigure this by running the FlutterFire CLI again.',
+        );
       case TargetPlatform.windows:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for windows - '
@@ -47,43 +56,10 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyCanvFatmZBL5p6iPgW8XPDt91gCzmiHsg',
     appId: '1:488608797662:web:fe11fb9ee7ff87d36ec34f',
     messagingSenderId: '488608797662',
-    projectId: 'sot-a677c',
-    authDomain: 'sot-a677c.firebaseapp.com',
-    databaseURL: 'https://sot-a677c.firebaseio.com',
-    storageBucket: 'sot-a677c.appspot.com',
+    projectId: 'wurafadaka-a677c',
+    authDomain: 'wurafadaka-a677c.firebaseapp.com',
+    databaseURL: 'https://wurafadaka-a677c.firebaseio.com',
+    storageBucket: 'wurafadaka-a677c.appspot.com',
     measurementId: 'G-TRMW04KEJ7',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB_XCQYu8ycXUJR7GLAnXKgFLXnMYgRpi4',
-    appId: '1:488608797662:android:38f8652457fdf6186ec34f',
-    messagingSenderId: '488608797662',
-    projectId: 'sot-a677c',
-    databaseURL: 'https://sot-a677c.firebaseio.com',
-    storageBucket: 'sot-a677c.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCKsfyy_8AhpRhK-oFB3a8vVSKuxs7t4LE',
-    appId: '1:488608797662:ios:289e62e8213ce2376ec34f',
-    messagingSenderId: '488608797662',
-    projectId: 'sot-a677c',
-    databaseURL: 'https://sot-a677c.firebaseio.com',
-    storageBucket: 'sot-a677c.appspot.com',
-    iosClientId:
-        '488608797662-eolbn0p3hupq6s0arnq0t57hmn50v7mf.apps.googleusercontent.com',
-    iosBundleId: 'com.example.sot',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCKsfyy_8AhpRhK-oFB3a8vVSKuxs7t4LE',
-    appId: '1:488608797662:ios:289e62e8213ce2376ec34f',
-    messagingSenderId: '488608797662',
-    projectId: 'sot-a677c',
-    databaseURL: 'https://sot-a677c.firebaseio.com',
-    storageBucket: 'sot-a677c.appspot.com',
-    iosClientId:
-        '488608797662-eolbn0p3hupq6s0arnq0t57hmn50v7mf.apps.googleusercontent.com',
-    iosBundleId: 'com.example.sot',
   );
 }
